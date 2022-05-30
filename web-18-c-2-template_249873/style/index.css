@@ -1,0 +1,14 @@
+#navbar{
+    display: flex;
+    width: 100%;
+    /* border: 1px solid black; */
+    /* margin: auto; */
+    /* text-align: end; */
+    justify-content: end;
+    gap: 10px;
+    background-color:lightcyan;
+    color: black;
+}
+a{
+    text-decoration: none;
+}
